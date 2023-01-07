@@ -1,0 +1,5 @@
+https://github.com/GamalElsawy/udacity-people-CICD
+http://udapeople-ochiwy4amc.s3-website-us-east-1.amazonaws.com
+https://d19w9e7zky2xy9.cloudfront.net
+ec2-35-174-155-117.compute-1.amazonaws.com
+ec2-44-205-249-194.compute-1.amazonaws.com
